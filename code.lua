@@ -1,7 +1,7 @@
 -- choose your keys here
 -- e.g. if I wanted button 1 to toggle e I would put {e=1};
 -- e.g. if I wanted button 3 to toggle e I would put {e=3,f=3,g=2};
-keysetup = {e=3}; 
+keysetup = {lshift=4}; 
 -- if using mouse set to true
 mouse = false;
 -- set to true to log all button presses (useful when you don't know what number a key is)
